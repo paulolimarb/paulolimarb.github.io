@@ -11,7 +11,7 @@ $(document).ready(function(){
 
 
 
-}, false);
+});
 
 $("#Referencia").hover(function () {  
 
@@ -103,6 +103,5 @@ function linhaAnimada(objOrigem,objDestino,espessura,cor)
   
 }
 
-});//fim do jquery
 
 
